@@ -9,5 +9,5 @@ LEDをGPIO25とGNDにつなぎ、ターミナルにて`echo 1 > /dev/myled0`と�
 [課題1の動画](https://youtu.be/sSezWMWWlZM)
 
 # 参考動画、参考リンク
-[ロボットシステム学第7回～第8回](https://www.youtube.com/watch?v=xQW8-FNuboo)  
-[ロボットシステム学の練習用デバイスドライバ](https://github.com/ryuichiueda/robosys_device_drivers)
+[ロボットシステム学第7回～第8回(Youtube)](https://www.youtube.com/watch?v=xQW8-FNuboo)  
+[ロボットシステム学の練習用デバイスドライバ(GitHub)](https://github.com/ryuichiueda/robosys_device_drivers)
